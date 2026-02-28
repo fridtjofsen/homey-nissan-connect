@@ -1,0 +1,24 @@
+name: Question / Help
+description: Ask a question about how to use the app or flows
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to ask questions about setup, flow creation, or supported vehicles.
+  - type: input
+    id: vehicle
+    attributes:
+      label: Vehicle Model
+      placeholder: e.g. Nissan Leaf 2018
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What are you trying to achieve?
+      placeholder: I am trying to create a flow that starts climate control when...
+    validations:
+      required: true
