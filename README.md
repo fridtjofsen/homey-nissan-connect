@@ -1,7 +1,6 @@
 # Nissan Connect for Homey
 
 [![Homey App Store](https://img.shields.io/badge/Homey-App%20Store-blue)](https://homey.app/a/com.nissan.connect)
-[![Build Status](https://github.com/fridtjofsen/homey-nissan-connect/actions/workflows/mirror-issue.yml/badge.svg)](https://github.com/fridtjofsen/homey-nissan-connect/actions)
 
 **Control your Nissan electric vehicle directly from Homey.**
 
