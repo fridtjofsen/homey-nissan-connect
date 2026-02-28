@@ -4,6 +4,7 @@
 ![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/fridtjofsen/homey-nissan-connect/feature)
 ![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/fridtjofsen/homey-nissan-connect/bug)
 ![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues-closed-raw/fridtjofsen/homey-nissan-connect/bug)
+[![Bluesky followers](https://img.shields.io/bluesky/followers/fridtjofsen.no)](https://bsky.app/profile/fridtjofsen.no)
 
 
 
