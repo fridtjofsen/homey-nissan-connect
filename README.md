@@ -1,11 +1,11 @@
 # Nissan Connect for Homey
 
+[![Homey Forum](https://img.shields.io/badge/Homey%20Forum-blue)](https://community.homey.app/t/app-pro-nissan-connect-automate-you-car/150405)
 [![Homey App Store](https://img.shields.io/badge/Homey-App%20Store-blue)](https://homey.app/a/com.nissan.connect)
 ![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/fridtjofsen/homey-nissan-connect/feature)
 ![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues/fridtjofsen/homey-nissan-connect/bug)
 ![GitHub Issues or Pull Requests by label](https://img.shields.io/github/issues-closed-raw/fridtjofsen/homey-nissan-connect/bug)
 [![Bluesky followers](https://img.shields.io/bluesky/followers/fridtjofsen.no)](https://bsky.app/profile/fridtjofsen.no)
-
 
 
 
