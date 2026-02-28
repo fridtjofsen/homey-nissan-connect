@@ -1,0 +1,39 @@
+name: Bug Report
+description: Create a report to help us improve
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: car_model
+    attributes:
+      label: Vehicle Model & Year
+      description: e.g. Nissan Leaf 2019, Ariya 2023
+      placeholder: Nissan Leaf 2020
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App Version
+      description: Which version of the Homey app are you running?
+      placeholder: v0.4.0
+    validations:
+      required: true
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: I tried to start the climate control via a flow, but...
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Logs / Error Messages
+      description: Please paste any error messages or relevant logs here.
+      render: shell
