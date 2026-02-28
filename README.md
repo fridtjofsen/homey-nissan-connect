@@ -18,8 +18,8 @@ This app integrates [Nissan's connected services (EV & ICE) into Homey](https://
 The source code for this application is closed-source/private, but we use this repository to track bugs, feature requests, and public releases.
 
 ### How to report a bug
-1.  Check the [existing issues](https://github.com/YOUR_USERNAME/homey-nissan-connect/issues) to see if your problem has already been reported.
-2.  Open a **[New Issue](https://github.com/YOUR_USERNAME/homey-nissan-connect/issues/new/choose)**.
+1.  Check the [existing issues](https://github.com/fridtjofsen/homey-nissan-connect/issues) to see if your problem has already been reported.
+2.  Open a **[New Issue](https://github.com/fridtjofsen/homey-nissan-connect/issues/new/choose)**.
 3.  Please include:
     * **Car Model:** (e.g., Nissan Leaf 2019)
     * **App Version:** (e.g., v0.4.0)
